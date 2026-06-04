@@ -16,8 +16,6 @@ Install Python dependencies with:
 pip install -r requirements.txt
 ```
 
-## Python packages: installed when running the python files
-
 ## Workflow
 
 1. Group files with raw microscopy images into subfolders:
