@@ -2,9 +2,19 @@
 
 Analysis scripts for IF microscopy quantification.
 
+This repository contains Fiji macros and Python scripts used for immunofluorescence image analysis in Can et al., “A CDK1 phospho-switch reprograms TRAIP to unload replisomes in mitosis.”
+
 ## Requirements
-- Fiji/ImageJ 2.x
-- Python 3.11
+
+* Fiji/ImageJ 2.x
+* Python 3.11 or later
+* pandas
+
+Install Python dependencies with:
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Python packages: installed when running the python files
 
@@ -52,5 +62,5 @@ Analysis scripts for IF microscopy quantification.
 
 
 ## Output
-- normalized intensity tables with Mitotic and Interphase cell-cycle classification (+intermediate caculations:
+- normalized intensity tables with Mitotic and Interphase cell-cycle classification (+intermediate calculations:
 - 'Results_nuclei_summary_transposed_combined_MvsI.csv'
