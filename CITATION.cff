@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Immunofluorescence image analysis scripts for TRAIP-TTF2 study"
+message: "If you use these scripts, please cite this software."
+type: software
+authors:
+  - family-names: Shyian
+    given-names: Maksym
+version: 1.0.0
+license: MIT
+date-released: 2026-06-03
